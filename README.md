@@ -14,3 +14,15 @@ Use the package manager composer to install matcha.
 ```bash
 composer install
 ```
+
+## Run tests
+
+```bash
+composer tests
+```
+
+## Check code quality
+
+```bash
+composer sniff
+```
