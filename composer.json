@@ -1,0 +1,13 @@
+{
+    "name": "nar6/matcha-clean-architecture",
+    "description": "Dating site implemented throw clean architecture.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Le Bévillon Quentin",
+            "email": "qlebevillon@gmail.com"
+        }
+    ],
+    "require": {}
+}
