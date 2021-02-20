@@ -1,5 +1,7 @@
 # Matcha 
 
+[![Code quality](https://github.com/qle-bevi/matcha-clean-architecture/actions/workflows/code-quality.yml/badge.svg)](https://github.com/qle-bevi/matcha-clean-architecture/actions/workflows/code-quality.yml) &nbsp;&nbsp;&nbsp; [![Tests](https://github.com/qle-bevi/matcha-clean-architecture/actions/workflows/tests.yml/badge.svg)](https://github.com/qle-bevi/matcha-clean-architecture/actions/workflows/tests.yml)
+
 Matcha is a project of school 42.
 
 It's a dating site.
